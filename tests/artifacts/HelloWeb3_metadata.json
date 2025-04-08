@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "_string",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/01HelloWeb3.sol": "HelloWeb3"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/01HelloWeb3.sol": {
+			"keccak256": "0x0520c936cb34476fcbbd1916de526e26ed8645766f693579d395f03194e96b1b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2a925f65a05f252db072efde820e0b46f9d6ba6607b8aff6fb941c56edeb8cfc",
+				"dweb:/ipfs/QmPxZQnCPxV6cgihPn38j7SVMzo5oVda9iEuQcjcmceGdZ"
+			]
+		}
+	},
+	"version": 1
+}

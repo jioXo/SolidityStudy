@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "initialOwner",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_newOwner",
+						"type": "address"
+					}
+				],
+				"name": "changeOwner",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"tests/11构造函数和修饰器.sol": "Constructor"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"tests/11构造函数和修饰器.sol": {
+			"keccak256": "0x5aa96e514120640ec11a23e9943f3de3e11b3c2f73a94933d51c37ed46eebfaa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7ba8b3592cdc60849e141ab6dd680e8257a36c3186826f37611c28ff97c9c210",
+				"dweb:/ipfs/QmSr4efpDATMb3bGGVNejNiZVrrdiT4myxwDwEGiTFUmC6"
+			]
+		}
+	},
+	"version": 1
+}
