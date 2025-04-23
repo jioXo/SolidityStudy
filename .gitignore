@@ -14,5 +14,7 @@ yul.js
 # Ignore other IDE-specific files
 .idea/
 vscode-js-debug/.debuggingData.json
+
+.states
+
 tests/artifacts
-.states/
