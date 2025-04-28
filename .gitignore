@@ -16,5 +16,6 @@ yul.js
 vscode-js-debug/.debuggingData.json
 
 .states
-.json
+*.json
 tests/artifacts
+.deps
