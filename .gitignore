@@ -1,5 +1,5 @@
 # Ignore Solidity files
-*.sol
+#*.sol
 
 # Ignore contract ABI and bytecode files
 abi.json
@@ -16,5 +16,5 @@ yul.js
 vscode-js-debug/.debuggingData.json
 
 .states
-
+.json
 tests/artifacts
